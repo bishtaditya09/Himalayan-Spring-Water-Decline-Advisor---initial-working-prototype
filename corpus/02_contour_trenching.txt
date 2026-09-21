@@ -1,0 +1,31 @@
+Title: Contour Trenches for Slowing Runoff and Improving Recharge
+
+Contour trenches are shallow, continuous or staggered ditches dug along the natural
+contour lines of a hillslope, at right angles to the direction water flows downhill.
+Their purpose is to intercept surface runoff during rainfall, hold it in place long
+enough to infiltrate, and reduce the soil erosion that strips hillsides of the very
+topsoil that helps retain moisture.
+
+Two common patterns are used depending on slope and land use:
+- Continuous contour trenches: unbroken ditches along the contour, generally used on
+  gentler, more uniform slopes such as grazing land or degraded pasture.
+- Staggered (broken) contour trenches: short trench segments arranged in a
+  brick-like offset pattern along the contour, preferred on steeper or more
+  irregular terrain because a breach in one segment does not cause a cascading
+  failure down the whole line.
+
+Typical specifications: trenches are commonly around 30 to 45 centimetres wide and
+30 centimetres deep, though this is adapted to local soil depth and rockiness. The
+excavated soil is usually mounded on the downhill lip of the trench, which further
+slows runoff and can be planted with grass or shrubs to stabilize it.
+
+Placement relative to springs: like recharge pits, contour trenches are most
+effective for spring revival when placed within the spring's actual recharge zone,
+not simply anywhere convenient. Treating an entire micro-watershed above a spring
+with a combination of trenches, pits, and vegetation cover (a "ridge to valley"
+treatment approach) tends to outperform isolated structures.
+
+Maintenance: trenches silt up over time, especially in their first two to three
+monsoons, and need periodic clearing to keep functioning. Community ownership of
+this maintenance is often the deciding factor between a program that keeps working
+after the initial construction phase and one that quietly fails within a few years.

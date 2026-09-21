@@ -1,0 +1,37 @@
+Title: Recharge Pits and Percolation Structures for Spring Revival
+
+Recharge pits are one of the most widely used low-cost interventions for reviving
+declining hill springs. The core idea is simple: instead of letting monsoon runoff
+race downhill over hard or degraded slopes, you slow it down and give it time to
+soak into the ground above the spring's recharge zone.
+
+Where to dig: Recharge pits should be placed upslope of the spring, ideally within
+its identified recharge area (the zone of higher elevation land whose subsurface
+water eventually feeds the spring). Locating this area correctly is the single most
+important step -- pits dug outside the true recharge zone will have little to no
+effect on the spring's discharge, however well built. A rough hydrogeological survey
+(even a simple slope-and-geology walk with a local expert) should precede construction.
+
+Typical dimensions: A standard percolation pit is roughly 1 to 2 metres deep, 1 metre
+wide, and 1 to 1.5 metres long, though this varies with soil type and available
+land. Pits are usually staggered in rows along the contour of the slope so that water
+overflowing one pit is caught by the next, rather than continuing downhill unchecked.
+
+Construction notes:
+- Pits should be filled loosely with boulders, gravel, and coarse sand in layers
+  (boulders at the base, finer material on top) to prevent collapse while still
+  allowing water to percolate through.
+- A silt trap or small catch pit uphill of each recharge pit reduces siltation and
+  extends the structure's working life -- these need periodic desilting, especially
+  after the monsoon.
+- Spacing between pits typically follows the contour at intervals of a few metres,
+  adjusted to the slope gradient; steeper slopes usually need closer spacing to
+  meaningfully slow runoff.
+
+Expected outcomes and limitations: Recharge structures do not produce an immediate
+increase in discharge -- the effect is usually seen only after one or two full monsoon
+cycles, as recharged water takes time to travel through the subsurface to the spring.
+Communities should be told this clearly, since expecting instant results is a common
+cause of program abandonment. These structures also work best as part of a broader
+treatment of the recharge area (see catchment protection notes) rather than as a
+standalone fix.

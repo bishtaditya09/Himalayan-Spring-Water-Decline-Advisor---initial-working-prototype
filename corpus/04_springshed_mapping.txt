@@ -1,0 +1,37 @@
+Title: Spring Inventory and Springshed Mapping
+
+Before any physical intervention, most successful spring revival programs in
+Himalayan states begin with a systematic spring inventory: a village-by-village or
+block-by-block survey that records each spring's location, approximate discharge,
+seasonal behaviour, current usage, and perceived trend (increasing, stable,
+declining, or dry) as reported by local residents who often have decades of
+first-hand memory of how a spring has behaved.
+
+Why this matters for AI-based approaches: local, informal knowledge -- "this spring
+used to run all year but has been dry by April for the last five years" -- is
+extremely valuable data that formal government datasets usually do not capture at
+all. A well-designed decision-support tool should treat this kind of qualitative,
+community-reported information as a first-class input alongside any available
+rainfall or discharge measurements, not as an afterthought.
+
+Basic spring classification used in several state springshed programs:
+- Depression springs: emerge where the land surface intersects the water table,
+  often in valley bottoms.
+- Contact springs: emerge where a permeable rock layer overlies an impermeable
+  layer, common in the sedimentary and metamorphic geology typical of large parts
+  of the Himalayan belt.
+- Fracture/fault springs: emerge along geological fractures or fault lines, and can
+  be highly localized -- two springs a short distance apart may behave very
+  differently depending on which fracture system feeds them.
+
+Discharge measurement in the field: for low-flow springs, a simple bucket-and-stopwatch
+method (time taken to fill a container of known volume) is commonly used and is
+accurate enough for trend monitoring purposes, even without expensive flow-metering
+equipment. Repeating this measurement on a fixed schedule (for example, monthly)
+across the dry and wet seasons builds the kind of time-series record that makes
+trend analysis and forecasting possible in the first place.
+
+Community-based monitoring: training local volunteers, self-help groups, or school
+students to take and log these periodic measurements has been used successfully in
+several Himalayan states to build sustained monitoring datasets that would otherwise
+require ongoing government field staff time.

@@ -1,0 +1,35 @@
+Title: Catchment (Recharge Area) Protection and Afforestation
+
+A spring's health is only as good as the land above it. Deforestation, overgrazing,
+unplanned construction, and road cutting in a spring's recharge area all reduce how
+much rainwater infiltrates into the subsurface rather than running off the surface,
+and this is frequently the underlying cause behind springs that were reliable for
+generations suddenly declining within a decade or two.
+
+Identifying the recharge area: this is not simply "the hill above the spring" in a
+generic sense -- it requires tracing the local geology (rock type, fracture and
+fault patterns, soil depth) to estimate which upslope area actually drains
+underground toward the spring, since Himalayan aquifers are frequently perched and
+localized rather than large uniform groundwater basins. Where formal hydrogeological
+mapping is not available, a practical proxy is to work with the visible natural
+drainage lines and slope above the spring, while being transparent that this is an
+approximation.
+
+Recommended interventions in the recharge area:
+- Afforestation with native, deep-rooted species rather than fast-growing
+  commercial monocultures (some non-native plantation species are associated with
+  higher water uptake and reduced infiltration compared to native mixed forest).
+- Restricting free grazing in actively treated recharge zones during the initial
+  recovery years, since grazing compacts soil and reduces infiltration.
+- Avoiding new construction, road cutting, or blasting within the mapped recharge
+  zone where possible, since these can physically sever the subsurface flow paths
+  feeding a spring -- a documented cause of sudden spring death in hill road
+  construction areas.
+- Terracing and bunding on any cultivated slopes within the recharge zone to reduce
+  runoff velocity.
+
+Long time horizon: unlike a recharge pit, forest and soil recovery in a catchment
+area is a multi-year to multi-decade process. This intervention is the most
+important for long-term spring health but the least visible in the short term, which
+makes sustained community and institutional commitment essential rather than a one-time
+project activity.
