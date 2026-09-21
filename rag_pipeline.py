@@ -33,7 +33,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 # Resolve relative to this file's location, not a hardcoded absolute path --
 # this makes the module work regardless of which machine/OS it's run on.
-CORPUS_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "corpus")
+CORPUS_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "corpus")
 
 
 @dataclass
