@@ -42,15 +42,6 @@ app itself and should be disclosed in any submission or presentation of this pro
 Treat this as a demonstration of the *method* — forecasting + grounded retrieval — not
 as real measurements for any specific village or spring.
 
-## Setup
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
-
-Then open the local URL Streamlit prints (usually `http://localhost:8501`).
-
 ## Project structure
 
 ```
@@ -71,7 +62,7 @@ spring-advisor/
     └── rag_pipeline.py          # TF-IDF retrieval + grounded answer assembly
 ```
 
-## Honest limitations (say these out loud in your submission — reviewers respect this)
+## Honest limitations
 
 - **Data is synthetic**, not measured. Real deployment needs an actual spring
   inventory (see `corpus/04_springshed_mapping.txt` for how such a program is
